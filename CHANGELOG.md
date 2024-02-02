@@ -2,6 +2,21 @@
 
 
 
+## v0.1.0-rc.2 (2024-02-02)
+
+### Fix
+
+* fix: version number ([`b7af521`](https://github.com/ibiscp/simple_python/commit/b7af521485ffc7f93ea423e343f38795a35de928))
+
+* fix: modify files ([`e9ca951`](https://github.com/ibiscp/simple_python/commit/e9ca951f392e38d674e3c3a6944f4b8fc4d3fb30))
+
+### Unknown
+
+* Merge pull request #5 from ibiscp/dev
+
+fix: modify files ([`aad8a2a`](https://github.com/ibiscp/simple_python/commit/aad8a2ab788ff9af4842ff75880ac8aeb513b094))
+
+
 ## v0.1.0-rc.1 (2024-02-02)
 
 ### Feature
