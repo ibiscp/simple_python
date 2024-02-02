@@ -2,6 +2,19 @@
 
 
 
+## v0.1.0-rc.3 (2024-02-02)
+
+### Feature
+
+* feat: modify pyrpoject ([`6f9f413`](https://github.com/ibiscp/simple_python/commit/6f9f413d6ec2391c6c559a8101e795e2df6a6a76))
+
+### Unknown
+
+* Merge pull request #7 from ibiscp/dev
+
+feat: modify pyrpoject ([`3f62c38`](https://github.com/ibiscp/simple_python/commit/3f62c380ce3b86d19b0ec083bab60c9ff428d3d0))
+
+
 ## v0.1.0-rc.2 (2024-02-02)
 
 ### Fix
