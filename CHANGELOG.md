@@ -2,6 +2,17 @@
 
 
 
+## v0.2.0 (2024-02-02)
+
+### Unknown
+
+* Merge pull request #10 from ibiscp/qa
+
+Qa ([`fd612b6`](https://github.com/ibiscp/simple_python/commit/fd612b640efb1166922c89f2c5724a2510acb3f5))
+
+* Merge branch &#39;main&#39; into qa ([`2a986e8`](https://github.com/ibiscp/simple_python/commit/2a986e89c9e966df948c91641b918918465f0c24))
+
+
 ## v0.1.0-rc.4 (2024-02-02)
 
 ### Feature
