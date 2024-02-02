@@ -20,6 +20,14 @@ feat: update pyproject ([`45ac812`](https://github.com/ibiscp/simple_python/comm
 
 feat: update release number ([`ff612a0`](https://github.com/ibiscp/simple_python/commit/ff612a077279e8e41a56f3ba5109819465439d8b))
 
+## v0.2.0 (2024-02-02)
+
+### Unknown
+
+* Merge pull request #10 from ibiscp/qa
+
+Qa ([`fd612b6`](https://github.com/ibiscp/simple_python/commit/fd612b640efb1166922c89f2c5724a2510acb3f5))
+
 * Merge branch &#39;main&#39; into qa ([`2a986e8`](https://github.com/ibiscp/simple_python/commit/2a986e89c9e966df948c91641b918918465f0c24))
 
 
