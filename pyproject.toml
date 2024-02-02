@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "simple-python"
+version = "0.1.0"
+description = ""
+authors = ["Ibis Prevedello <ibiscp@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.group.python-semantic-release.dependencies]
+python-semantic-release = "^8.7.0"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version"
+upload_to_pypi = "false"
+
+[tool.semantic_release.branches.main]
+match = "main"
+prerelease = false
+
+[tool.semantic_release.branches.qa]
+match = "qa"
+prerelease = true
+prerelease_token = "rc"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
