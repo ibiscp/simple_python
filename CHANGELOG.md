@@ -2,6 +2,19 @@
 
 
 
+## v0.1.0-rc.4 (2024-02-02)
+
+### Feature
+
+* feat: remove merge messages ([`959965c`](https://github.com/ibiscp/simple_python/commit/959965cda74bed00f377f958f6e39010e9f7d29f))
+
+### Unknown
+
+* Merge pull request #9 from ibiscp/dev
+
+feat: remove merge messages ([`3d519c6`](https://github.com/ibiscp/simple_python/commit/3d519c656d36e03c69769fc22c6413b5a75a4ad5))
+
+
 ## v0.1.0 (2024-02-02)
 
 ### Unknown
