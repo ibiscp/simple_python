@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "simple-python"
-version = "0.3.0"
+version = "0.3.0-rc.2"
 description = ""
 authors = ["Ibis Prevedello <ibiscp@gmail.com>"]
 readme = "README.md"
@@ -14,14 +14,18 @@ python-semantic-release = "^8.7.0"
 [tool.semantic_release]
 version_variable = ["src/__init__.py:__version__"]
 version_toml = ["pyproject.toml:tool.poetry.version"]
+commit_version_number = true
 upload_to_pypi = false
 upload_to_release = true
-commit_subject_parser = "^((?!Merge).)*$"
-commit_message = "chore(semver): Update version to {version}"
+commit_message = "chore: Update version to {version}"
 
 [tool.semantic_release.branches.main]
 match = "main"
 prerelease = false
+
+[tool.semantic_release.changelog]
+changelog_file = "CHANGELOG.md"
+exclude_commit_patterns = ["^Merge.*"]
 
 [tool.semantic_release.branches.qa]
 match = "qa"
