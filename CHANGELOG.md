@@ -2,6 +2,13 @@
 
 
 
+## v0.6.0-rc.1 (2024-02-03)
+
+### Feature
+
+* feat: add multiplication ([`6237d6d`](https://github.com/ibiscp/simple_python/commit/6237d6d1911b1041a082662819c6ab875c2b925d))
+
+
 ## v0.5.0 (2024-02-03)
 
 
