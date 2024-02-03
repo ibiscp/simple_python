@@ -2,6 +2,48 @@
 
 
 
+## v0.7.0-rc.2 (2024-02-03)
+
+### Chore
+
+* chore: add chore ([`ebd939b`](https://github.com/ibiscp/simple_python/commit/ebd939b8ebb8f6e64ac0d579f878d19bb6db8687))
+
+### Feature
+
+* feat: add new user to make the commit ([`82d066f`](https://github.com/ibiscp/simple_python/commit/82d066f32f62e64132a337d0242afa90ab7579b4))
+
+### Fix
+
+* fix: add fix ([`6119503`](https://github.com/ibiscp/simple_python/commit/61195031d4f62b6c198b90a3738783dc5044db65))
+
+
+## v0.7.0-rc.1 (2024-02-03)
+
+### Feature
+
+* feat: add file_2 ([`040394c`](https://github.com/ibiscp/simple_python/commit/040394c47fb35c31bd9cfa353b0ce7fd129dfcfe))
+
+* feat: add file_1 ([`da35f89`](https://github.com/ibiscp/simple_python/commit/da35f896ad1b1bef4d4b7097f99871a729e5037c))
+
+* feat: add division ([`cc68b2a`](https://github.com/ibiscp/simple_python/commit/cc68b2a96c940898eda86dca085d0a388c4fc4ee))
+
+* feat: add multiply ([`52da6e3`](https://github.com/ibiscp/simple_python/commit/52da6e39b1f4724c00f34f946b1a1c43106f6404))
+
+### Unknown
+
+* Dev to QA (#26) (#27)
+
+* feat: add multiply
+
+* feat: add division ([`1dadcc2`](https://github.com/ibiscp/simple_python/commit/1dadcc2ac579d7198836f07426a039af52a096d9))
+
+* Dev to QA (#26)
+
+* feat: add multiply
+
+* feat: add division ([`dbaed7f`](https://github.com/ibiscp/simple_python/commit/dbaed7f23c2efd755cf3443bd5bd61e2e19c0096))
+
+
 ## v0.6.0 (2024-02-03)
 
 

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "simple-python"
-version = "0.6.0"
+version = "0.7.0-rc.2"
 description = ""
 authors = ["Ibis Prevedello <ibiscp@gmail.com>"]
 readme = "README.md"
@@ -12,12 +12,14 @@ python = "^3.9"
 python-semantic-release = "^8.7.0"
 
 [tool.semantic_release]
-version_variable = ["src/__init__.py:__version__"]
 version_toml = ["pyproject.toml:tool.poetry.version"]
+tag_format = "v{version}"
+commit_parser = "angular"
 commit_version_number = true
 upload_to_pypi = false
 upload_to_release = true
 commit_message = "chore: Update version to {version}"
+commit_author = "Jackie Diver <jackie@deepdivetech.ai>"
 
 [tool.semantic_release.branches.main]
 match = "main"
@@ -36,6 +38,20 @@ prerelease_token = "rc"
 allowed_tags = ["build", "chore", "ci", "docs", "feat", "fix", "perf", "style", "refactor", "test"]
 minor_tags = ["feat"]
 patch_tags = ["fix", "perf"]
+
+[tool.semantic_release.changelog.environment]
+block_start_string = "{%"
+block_end_string = "%}"
+variable_start_string = "{{"
+variable_end_string = "}}"
+comment_start_string = "{#"
+comment_end_string = "#}"
+trim_blocks = false
+lstrip_blocks = false
+newline_sequence = "\n"
+keep_trailing_newline = false
+extensions = []
+autoescape = true
 
 [build-system]
 requires = ["poetry-core"]
