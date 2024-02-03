@@ -2,6 +2,17 @@
 
 
 
+## v0.8.0-rc.1 (2024-02-03)
+
+### Chore
+
+* chore: remove semantic_release from pyproject ([`cd91c47`](https://github.com/ibiscp/simple_python/commit/cd91c4775814c2778da534c1d176d85c2261295f))
+
+### Feature
+
+* feat: add file 3 ([`5328ff6`](https://github.com/ibiscp/simple_python/commit/5328ff61024713ee5fc790c18ec18fc6674e936d))
+
+
 ## v0.7.0 (2024-02-03)
 
 
