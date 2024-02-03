@@ -2,6 +2,21 @@
 
 
 
+## v0.7.0-rc.2 (2024-02-03)
+
+### Chore
+
+* chore: add chore ([`ebd939b`](https://github.com/ibiscp/simple_python/commit/ebd939b8ebb8f6e64ac0d579f878d19bb6db8687))
+
+### Feature
+
+* feat: add new user to make the commit ([`82d066f`](https://github.com/ibiscp/simple_python/commit/82d066f32f62e64132a337d0242afa90ab7579b4))
+
+### Fix
+
+* fix: add fix ([`6119503`](https://github.com/ibiscp/simple_python/commit/61195031d4f62b6c198b90a3738783dc5044db65))
+
+
 ## v0.7.0-rc.1 (2024-02-03)
 
 ### Feature
