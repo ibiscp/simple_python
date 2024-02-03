@@ -19,8 +19,31 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up Git Identity
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
       - name: Python Semantic Release
         uses: python-semantic-release/python-semantic-release@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          push: true
+
+      - name: Push changes to qa and dev
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git fetch
+          git checkout qa
+          git merge main
+          git push origin qa
+          git checkout dev
+          git merge main
+          git push origin dev
+
+      - name: Push changes to dev
+        if: github.ref == 'refs/heads/qa'
+        run: |
+          git fetch
+          git checkout dev
+          git merge qa
+          git push origin dev
