@@ -37,7 +37,7 @@ jobs:
           git merge main
           git push origin qa
           git checkout dev
-          git merge main
+          git merge qa
           git push origin dev
 
       - name: Push changes to dev
