@@ -7,3 +7,5 @@ def sub(a, b):
     return a - b
 
 # Multiply
+def multiply(a, b):
+    return a * b
