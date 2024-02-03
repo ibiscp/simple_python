@@ -2,6 +2,13 @@
 
 
 
+## v0.8.0 (2024-02-03)
+
+### Chore
+
+* chore: test new chore ([`d0274be`](https://github.com/ibiscp/simple_python/commit/d0274be536d262b519abf9af16af6d6bad8a0239))
+
+
 ## v0.8.0-rc.1 (2024-02-03)
 
 ### Chore
