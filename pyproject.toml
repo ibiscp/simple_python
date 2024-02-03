@@ -1,15 +1,12 @@
 [tool.poetry]
 name = "simple-python"
-version = "0.7.0"
+version = "0.8.0-rc.1"
 description = ""
 authors = ["Ibis Prevedello <ibiscp@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-
-[tool.poetry.group.python-semantic-release.dependencies]
-python-semantic-release = "^8.7.0"
 
 [tool.semantic_release]
 version_toml = ["pyproject.toml:tool.poetry.version"]
