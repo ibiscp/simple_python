@@ -2,7 +2,20 @@
 
 
 
+## v0.5.0-rc.1 (2024-02-03)
+
+### Feature
+
+* feat: change way to commit ([`6a0217b`](https://github.com/ibiscp/simple_python/commit/6a0217b3b5a436e487b15e5cb25bf59b32195b75))
+
+
 ## v0.4.0 (2024-02-03)
+
+### Feature
+
+* feat: add user to commit ([`cb26dbf`](https://github.com/ibiscp/simple_python/commit/cb26dbfd0c78b5bf4988f3057dc90c068c11a2dc))
+
+* feat: try pushing changes back ([`cb19a15`](https://github.com/ibiscp/simple_python/commit/cb19a15202d15445cbf66150464df0351485e8c4))
 
 ### Unknown
 
@@ -31,9 +44,13 @@
 
 * chore: test chore command ([`9899910`](https://github.com/ibiscp/simple_python/commit/98999103aeceb5d75b62109f908804fccf78848f))
 
+* chore: test chore command ([`77adb02`](https://github.com/ibiscp/simple_python/commit/77adb022ebd70b680769ae0294f01b3d051235a4))
+
 ### Feature
 
 * feat: add division ([`f1964f1`](https://github.com/ibiscp/simple_python/commit/f1964f13c8abd1afd37a10221abb103619c548c4))
+
+* feat: add division ([`4799358`](https://github.com/ibiscp/simple_python/commit/4799358de5744c08af2460a3af52c5b4fc4b8c77))
 
 ### Unknown
 
