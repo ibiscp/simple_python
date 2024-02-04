@@ -19,18 +19,29 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install python-semantic-release jinja2
+
       - name: Python Semantic Release
         uses: python-semantic-release/python-semantic-release@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate and Update Changelog with Emojis
-        run: python semantic.py
+      - name: Generate Changelog
+        run: python changelog_templates/semantic.py
 
-      - name: Commit Changelog Changes
+      - name: Commit Changelog
         run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add CHANGELOG.md
-          git commit -m "Update CHANGELOG.md with emojis"
+          git commit -m "chore: Update changelog"
           git push
 
       - name: Push changes to qa and dev

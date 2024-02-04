@@ -17,6 +17,7 @@ upload_to_pypi = false
 upload_to_release = true
 commit_message = "chore: Update version to {version}"
 commit_author = "Jackie Diver <jackie@deepdivetech.ai>"
+template_dir = "release_templates"
 
 [tool.semantic_release.branches.main]
 match = "main"
