@@ -2,6 +2,13 @@
 
 
 
+## v0.9.0-rc.1 (2024-02-04)
+
+### Feature
+
+* feat: add emojis ([`fc99470`](https://github.com/ibiscp/simple_python/commit/fc994701925ebf6a06a5399fc41defd25aebfe94))
+
+
 ## v0.8.0 (2024-02-03)
 
 ### Chore
