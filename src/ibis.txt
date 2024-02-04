@@ -9,3 +9,5 @@ refactor
 build
 
 test
+
+ci
