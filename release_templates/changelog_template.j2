@@ -1,0 +1,24 @@
+{% set emoji_map = {
+    'feat': '✨',      # New feature
+    'fix': '🐛',       # Bug fix
+    'docs': '📚',      # Documentation
+    'refactor': '🔨',  # Refactoring
+    'build': '🏗️',    # Build system
+    'test': '🚨',      # Tests
+    'ci': '🤖',        # Continuous Integration
+    'style': '💎',     # Style/formatting
+    'chore': '🧹',     # Chores/maintenance
+    'perf': '⚡',      # Performance improvement
+} %}
+
+# Changelog
+
+{% for version, release in history.released.items() %}
+## [{{ version.as_tag() }}] - {{ release.tagged_date }}
+{% for type, commits in release.elements|dictsort %}
+### {{ type|capitalize }} {{ emoji_map[type] }}
+{% for commit in commits %}
+- {{ commit.short_hash }}: {{ commit.descriptions|first }}
+{% endfor %}
+{% endfor %}
+{% endfor %}
