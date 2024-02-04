@@ -2,6 +2,22 @@
 
 
 
+## v0.9.0-rc.2 (2024-02-04)
+
+### Feature
+
+* feat: update release ([`9bf8674`](https://github.com/ibiscp/simple_python/commit/9bf8674d90d32760e0b69db350ece50e4c4985c6))
+
+* feat: add templates ([`060b26e`](https://github.com/ibiscp/simple_python/commit/060b26edc3b2b0f4e45cfbdf9366d1a72f764b84))
+
+
+## v0.9.0-rc.1 (2024-02-04)
+
+### Feature
+
+* feat: add emojis ([`fc99470`](https://github.com/ibiscp/simple_python/commit/fc994701925ebf6a06a5399fc41defd25aebfe94))
+
+
 ## v0.8.0 (2024-02-03)
 
 ### Chore
