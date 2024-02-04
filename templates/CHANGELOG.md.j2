@@ -1,0 +1,38 @@
+{% set emoji_map = {
+    'feat': '✨',
+    'fix': '🐛',
+    'docs': '📚',
+    'refactor': '🔨',
+    'build': '🏗️',
+    'test': '🚨',
+    'ci': '🤖',
+    'style': '💎',
+    'chore': '🧹',
+    'perf': '⚡',
+} %}
+
+# CHANGELOG
+{% if context.history.unreleased | length > 0 %}
+
+{# UNRELEASED #}
+## Unreleased
+{% for type_, commits in context.history.unreleased | dictsort %}
+### {{ emoji_map[type_] }} {{ type_ | capitalize }}
+{% for commit in commits %}{% if type_ != "unknown" %}
+* {{ commit.commit.message.rstrip() }} ([`{{ commit.commit.hexsha[:7] }}`]({{ commit.commit.hexsha | commit_hash_url }}))
+{% else %}
+* {{ commit.commit.message.rstrip() }} ([`{{ commit.commit.hexsha[:7] }}`]({{ commit.commit.hexsha | commit_hash_url }}))
+{% endif %}{% endfor %}{% endfor %}
+
+{% endif %}
+
+{# RELEASED #}
+{% for version, release in context.history.released.items() %}
+## {{ version.as_tag() }} ({{ release.tagged_date.strftime("%Y-%m-%d") }})
+{% for type_, commits in release["elements"] | dictsort %}
+### {{ emoji_map[type_] }} {{ type_ | capitalize }}
+{% for commit in commits %}{% if type_ != "unknown" %}
+* {{ commit.commit.message.rstrip() }} ([`{{ commit.commit.hexsha[:7] }}`]({{ commit.commit.hexsha | commit_hash_url }}))
+{% else %}
+* {{ commit.commit.message.rstrip() }} ([`{{ commit.commit.hexsha[:7] }}`]({{ commit.commit.hexsha | commit_hash_url }}))
+{% endif %}{% endfor %}{% endfor %}{% endfor %}
