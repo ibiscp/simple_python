@@ -30,8 +30,6 @@
 - {% if scope %}\[**{{ scope }}**\]{%endif%}{{ commit_content(commit.commit.summary) }} [\@{{ commit.commit.author.name }}](mailto:{{commit.commit.author.email}})
 {% endfor %}{% endif %}{% endfor %}{% endif %}
 
-{% endif %}
-
 {# RELEASED #}
 {% for version, release in context.history.released.items() %}
 ## {{ version.as_tag() }} ({{ release.tagged_date.strftime("%Y-%m-%d") }})
