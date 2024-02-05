@@ -5,6 +5,16 @@
 
 
 
+## v0.9.0-rc.8 (2024-02-05)
+
+### ✨ Feature
+
+* feat: ibis ([`3c47dcf`](https://github.com/ibiscp/simple_python/commit/3c47dcfd9d850e4b6502012bcda400dbbe41fbd6))
+
+### ❗ Unknown
+
+* test new ([`24004c9`](https://github.com/ibiscp/simple_python/commit/24004c9458b8c824288c29b9276de6d625fba7cf))
+
 ## v0.9.0-rc.7 (2024-02-05)
 
 ### ✨ Feature
