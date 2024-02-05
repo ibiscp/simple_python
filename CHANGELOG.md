@@ -1,256 +1,442 @@
+
+
+
+
+
+
 # CHANGELOG
 
 
 
+
+## v0.9.0-rc.10 (2024-02-05)
+### 💥 Breaking
+
+
+-  breaking changes [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🐛 Fix
+
+
+-  fix typo [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.9 (2024-02-05)
+### ✨ Feature
+
+
+-  new templates [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🐛 Fix
+
+
+-  fix issue [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.8 (2024-02-05)
+### ✨ Feature
+
+
+-  ibis [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### ❗ Unknown
+
+
+-  [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.7 (2024-02-05)
+### ✨ Feature
+
+
+-  ibis [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.6 (2024-02-05)
+### ✨ Feature
+
+
+-  new [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  blabla [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  add new release [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  add release [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  add release notes [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 📖 Documentation
+
+
+-  remove version from release notes [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.5 (2024-02-04)
+### ⚡ Performance
+
+
+-  modify performance [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🚀 Chore
+
+
+-  Update version to 0.9.0-rc.5 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
+### 📖 Documentation
+
+
+-  modify documentation [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.4 (2024-02-04)
+### ✨ Feature
+
+
+-  add feature [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🐛 Fix
+
+
+-  add fix [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### ⚡ Performance
+
+
+-  add perf [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### ♻️ Refactor
+
+
+-  add refactor [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🚀 Chore
+
+
+-  Update version to 0.9.0-rc.4 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
+
+-  add chore [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 📖 Documentation
+
+
+-  add docs [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### ✅ Test
+
+
+-  add test [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🤖 Ci
+
+
+-  add ci [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🎨 Style
+
+
+-  add style [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🏗 Build
+
+
+-  add build [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+## v0.9.0-rc.3 (2024-02-04)
+### ✨ Feature
+
+
+-  remove release notes [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  change templates [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🚀 Chore
+
+
+-  Update version to 0.9.0-rc.3 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
+## v0.9.0-rc.2 (2024-02-04)
+### ✨ Feature
+
+
+-  update release [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  add templates [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🚀 Chore
+
+
+-  Update version to 0.9.0-rc.2 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
+## v0.9.0-rc.1 (2024-02-04)
+### ✨ Feature
+
+
+-  add emojis [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🚀 Chore
+
+
+-  Update version to 0.9.0-rc.1 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
 ## v0.8.0 (2024-02-03)
+### 🚀 Chore
 
-### Chore
 
-* chore: test new chore ([`d0274be`](https://github.com/ibiscp/simple_python/commit/d0274be536d262b519abf9af16af6d6bad8a0239))
+-  Update version to 0.8.0 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
 
+
+-  test new chore [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
 ## v0.8.0-rc.1 (2024-02-03)
+### ✨ Feature
 
-### Chore
 
-* chore: remove semantic_release from pyproject ([`cd91c47`](https://github.com/ibiscp/simple_python/commit/cd91c4775814c2778da534c1d176d85c2261295f))
+-  add file 3 [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Feature
+### 🚀 Chore
 
-* feat: add file 3 ([`5328ff6`](https://github.com/ibiscp/simple_python/commit/5328ff61024713ee5fc790c18ec18fc6674e936d))
 
+-  Update version to 0.8.0-rc.1 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
+
+-  remove semantic_release from pyproject [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
 ## v0.7.0 (2024-02-03)
+### 🚀 Chore
 
+
+-  Update version to 0.7.0 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
 
 ## v0.7.0-rc.2 (2024-02-03)
+### ✨ Feature
 
-### Chore
 
-* chore: add chore ([`ebd939b`](https://github.com/ibiscp/simple_python/commit/ebd939b8ebb8f6e64ac0d579f878d19bb6db8687))
+-  add new user to make the commit [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Feature
+### 🐛 Fix
 
-* feat: add new user to make the commit ([`82d066f`](https://github.com/ibiscp/simple_python/commit/82d066f32f62e64132a337d0242afa90ab7579b4))
 
-### Fix
+-  add fix [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* fix: add fix ([`6119503`](https://github.com/ibiscp/simple_python/commit/61195031d4f62b6c198b90a3738783dc5044db65))
+### 🚀 Chore
 
+
+-  Update version to 0.7.0-rc.2 [\@Jackie Diver](mailto:jackie@deepdivetech.ai)
+
+
+-  add chore [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
 ## v0.7.0-rc.1 (2024-02-03)
+### ✨ Feature
 
-### Feature
 
-* feat: add file_2 ([`040394c`](https://github.com/ibiscp/simple_python/commit/040394c47fb35c31bd9cfa353b0ce7fd129dfcfe))
+-  add file_2 [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* feat: add file_1 ([`da35f89`](https://github.com/ibiscp/simple_python/commit/da35f896ad1b1bef4d4b7097f99871a729e5037c))
 
-* feat: add division ([`cc68b2a`](https://github.com/ibiscp/simple_python/commit/cc68b2a96c940898eda86dca085d0a388c4fc4ee))
+-  add file_1 [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* feat: add multiply ([`52da6e3`](https://github.com/ibiscp/simple_python/commit/52da6e39b1f4724c00f34f946b1a1c43106f6404))
 
-### Unknown
+-  add division [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* Dev to QA (#26) (#27)
 
-* feat: add multiply
+-  add multiply [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* feat: add division ([`1dadcc2`](https://github.com/ibiscp/simple_python/commit/1dadcc2ac579d7198836f07426a039af52a096d9))
+### 🚀 Chore
 
-* Dev to QA (#26)
 
-* feat: add multiply
+-  Update version to 0.7.0-rc.1 [\@github-actions](mailto:github-actions@github.com)
 
-* feat: add division ([`dbaed7f`](https://github.com/ibiscp/simple_python/commit/dbaed7f23c2efd755cf3443bd5bd61e2e19c0096))
+### ❗ Unknown
 
+
+- \[**#26 **\] [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+- \[**#26**\] [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
 ## v0.6.0 (2024-02-03)
+### 🚀 Chore
 
+
+-  Update version to 0.6.0 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.6.0-rc.1 (2024-02-03)
+### ✨ Feature
 
-### Feature
 
-* feat: add multiplication ([`6237d6d`](https://github.com/ibiscp/simple_python/commit/6237d6d1911b1041a082662819c6ab875c2b925d))
+-  add multiplication [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
+### 🚀 Chore
+
+
+-  Update version to 0.6.0-rc.1 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.5.0 (2024-02-03)
+### 🚀 Chore
 
+
+-  Update version to 0.5.0 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.5.0-rc.1 (2024-02-03)
+### ✨ Feature
 
-### Feature
 
-* feat: change way to commit ([`6a0217b`](https://github.com/ibiscp/simple_python/commit/6a0217b3b5a436e487b15e5cb25bf59b32195b75))
+-  change way to commit [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
+### 🚀 Chore
+
+
+-  Update version to 0.5.0-rc.1 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.4.0 (2024-02-03)
+### ✨ Feature
 
-### Feature
 
-* feat: add user to commit ([`cb26dbf`](https://github.com/ibiscp/simple_python/commit/cb26dbfd0c78b5bf4988f3057dc90c068c11a2dc))
+-  add user to commit [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* feat: try pushing changes back ([`cb19a15`](https://github.com/ibiscp/simple_python/commit/cb19a15202d15445cbf66150464df0351485e8c4))
 
-### Unknown
+-  try pushing changes back [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* Dev (#18)
+### 🚀 Chore
 
-* chore: test chore command
 
-* feat: add division
+-  Update version to 0.4.0 [\@github-actions](mailto:github-actions@github.com)
 
-* feat: try pushing changes back
+### ❗ Unknown
 
-* feat: add user to commit ([`02457bc`](https://github.com/ibiscp/simple_python/commit/02457bcd5f995532572e49139f87980176dffb1b))
 
-* Dev (#17)
+- \[**#18**\] [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* chore: test chore command
 
-* feat: add division
-
-* feat: try pushing changes back ([`c01b594`](https://github.com/ibiscp/simple_python/commit/c01b5944949bdbd13bc6d169b988e1147c95d2aa))
-
+- \[**#17**\] [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
 ## v0.4.0-rc.1 (2024-02-03)
+### ✨ Feature
 
-### Chore
 
-* chore: test chore command ([`9899910`](https://github.com/ibiscp/simple_python/commit/98999103aeceb5d75b62109f908804fccf78848f))
+-  add division [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* chore: test chore command ([`77adb02`](https://github.com/ibiscp/simple_python/commit/77adb022ebd70b680769ae0294f01b3d051235a4))
 
-### Feature
+-  add division [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* feat: add division ([`f1964f1`](https://github.com/ibiscp/simple_python/commit/f1964f13c8abd1afd37a10221abb103619c548c4))
+### 🚀 Chore
 
-* feat: add division ([`4799358`](https://github.com/ibiscp/simple_python/commit/4799358de5744c08af2460a3af52c5b4fc4b8c77))
 
-### Unknown
+-  Update version to 0.4.0-rc.1 [\@github-actions](mailto:github-actions@github.com)
 
-* Major pyproject.toml Update and Addition of &#39;add&#39; Function
 
-* feat: change pyproject.toml
+-  test chore command [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-BREAKING CHANGE this is not backward compatible
 
-* feat: add add function
+-  test chore command [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* chore: Update version to 0.3.0-rc.2
+### ❗ Unknown
 
----------
 
-Co-authored-by: github-actions &lt;github-actions@github.com&gt; ([`6ae3ea2`](https://github.com/ibiscp/simple_python/commit/6ae3ea2f7bd56318ba8fdb034871f4fd5f881ccc))
-
+-  [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
 ## v0.3.0-rc.2 (2024-02-02)
+### ✨ Feature
 
-### Feature
 
-* feat: add add function ([`e1c050f`](https://github.com/ibiscp/simple_python/commit/e1c050f3169666fd43d25aac53a20d57ed433570))
+-  add add function [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
+### 🚀 Chore
+
+
+-  Update version to 0.3.0-rc.2 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.3.0 (2024-02-02)
+### ✨ Feature
 
-### Chore
 
-* chore(semver): Update version to 0.3.0 ([`da27b84`](https://github.com/ibiscp/simple_python/commit/da27b84d994446b4663b5232951b4ddf9babce0d))
+-  change pyproject.toml [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Feature
+### 🚀 Chore
 
-* feat: change pyproject.toml
 
-BREAKING CHANGE this is not backward compatible ([`d99eac7`](https://github.com/ibiscp/simple_python/commit/d99eac769d2b9906834ea90ad7e544f82718c18d))
-
+- \[**semver**\] Update version to 0.3.0 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.3.0-rc.1 (2024-02-02)
+### ✨ Feature
 
-### Chore
 
-* chore(semver): Update version to 0.3.0-rc.1 ([`384e498`](https://github.com/ibiscp/simple_python/commit/384e498d9b0141ab0032b68d9f057fb410a64e38))
+-  update pyproject [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Feature
 
-* feat: update pyproject ([`effc724`](https://github.com/ibiscp/simple_python/commit/effc724aecae79974880f7f43c53125bb64e88ae))
+-  update release number [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* feat: update release number ([`3151543`](https://github.com/ibiscp/simple_python/commit/315154366b6c5596e0437de6fb77f4cb21ed644d))
+### 🚀 Chore
 
+
+- \[**semver**\] Update version to 0.3.0-rc.1 [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.2.0 (2024-02-02)
+### ❗ Unknown
 
-### Unknown
 
-* 0.2.0
-
-Automatically generated by python-semantic-release ([`4413ac5`](https://github.com/ibiscp/simple_python/commit/4413ac5e69300e560540b607df4077c200e241f2))
-
+-  [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.1.0-rc.4 (2024-02-02)
+### ✨ Feature
 
-### Feature
 
-* feat: remove merge messages ([`959965c`](https://github.com/ibiscp/simple_python/commit/959965cda74bed00f377f958f6e39010e9f7d29f))
+-  remove merge messages [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Unknown
+### ❗ Unknown
 
-* 0.1.0-rc.4
 
-Automatically generated by python-semantic-release ([`69edbad`](https://github.com/ibiscp/simple_python/commit/69edbad7cf9554929f2afded9a6b1285c1bc0505))
-
+-  [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.1.0 (2024-02-02)
+### ❗ Unknown
 
-### Unknown
 
-* 0.1.0
-
-Automatically generated by python-semantic-release ([`98e598d`](https://github.com/ibiscp/simple_python/commit/98e598d5b7cb70f461c7b8c57f20e39843ae2d77))
-
+-  [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.1.0-rc.3 (2024-02-02)
+### ✨ Feature
 
-### Feature
 
-* feat: modify pyrpoject ([`6f9f413`](https://github.com/ibiscp/simple_python/commit/6f9f413d6ec2391c6c559a8101e795e2df6a6a76))
+-  modify pyrpoject [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Unknown
+### ❗ Unknown
 
-* 0.1.0-rc.3
 
-Automatically generated by python-semantic-release ([`15e4353`](https://github.com/ibiscp/simple_python/commit/15e4353c0eeb0124c5b29853d15eba13f92bd369))
-
+-  [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.1.0-rc.2 (2024-02-02)
+### 🐛 Fix
 
-### Fix
 
-* fix: version number ([`b7af521`](https://github.com/ibiscp/simple_python/commit/b7af521485ffc7f93ea423e343f38795a35de928))
+-  version number [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* fix: modify files ([`e9ca951`](https://github.com/ibiscp/simple_python/commit/e9ca951f392e38d674e3c3a6944f4b8fc4d3fb30))
 
-### Unknown
+-  modify files [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* 0.1.0-rc.2
+### ❗ Unknown
 
-Automatically generated by python-semantic-release ([`7b6ad4a`](https://github.com/ibiscp/simple_python/commit/7b6ad4aa1f18a65161b989606bdb19ea5fee2922))
 
+-  [\@github-actions](mailto:github-actions@github.com)
 
 ## v0.1.0-rc.1 (2024-02-02)
+### ✨ Feature
 
-### Feature
 
-* feat: add ci/cd ([`0ce7ca2`](https://github.com/ibiscp/simple_python/commit/0ce7ca248ecd0b0cc765cfa297c527cb1ff37dcb))
+-  add ci/cd [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-### Unknown
+### ❗ Unknown
 
-* 0.1.0-rc.1
 
-Automatically generated by python-semantic-release ([`035aa7a`](https://github.com/ibiscp/simple_python/commit/035aa7ac38fdae11e47a1f593341d5ad9b26b228))
+-  [\@github-actions](mailto:github-actions@github.com)
 
-* Create README.md ([`6a9ac2c`](https://github.com/ibiscp/simple_python/commit/6a9ac2c632f5333fa52cdc28d8a3f231edd1aca6))
 
-* Rename main.py to ibis.py ([`13563dc`](https://github.com/ibiscp/simple_python/commit/13563dcc0796332d5d69a252179d9184ee4b2064))
+-  [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
 
-* Create main.py ([`503ed64`](https://github.com/ibiscp/simple_python/commit/503ed6484e1e15d5ba74b2c6a24368de30228610))
+
+-  [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+
+-  [\@Ibis Prevedello](mailto:ibiscp@gmail.com)

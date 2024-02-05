@@ -1,0 +1,29 @@
+{% set emoji_map = {
+    'breaking': '💥',
+    'feature': '✨',
+    'fix': '🐛',
+    'performance': '⚡',
+    'refactor': '♻️',
+    'chore': '🚀',
+    'documentation': '📖',
+    'test': '✅',
+    'ci': '🤖',
+    'style': '🎨',
+    'build': '🏗',
+    'unknown': '❗',
+} %}
+
+{% macro commit_scope(commit_summary) %}{{ commit_summary.split(":")[0] }}{% endmacro %}
+{% macro commit_content(commit_summary) %}{{ commit_summary.split(":")[1] }}{% endmacro %}
+{% set order = emoji_map.keys() %}
+
+## {{ version.as_tag() }} ({{ release.tagged_date.strftime("%Y-%m-%d") }})
+{%- for type_ in order %}
+{%- if type_ in release["elements"] %}
+### {{ emoji_map[type_] }} {{ type_ | capitalize }}
+{% for commit in release["elements"][type_] %}
+{%- set scope = commit_scope(commit.commit.summary).split("(")[1] | replace(")", "") | default ("", true) %}
+- {% if scope %}\[**{{ scope }}**\]{%endif%}{{ commit_content(commit.commit.summary) }} [\@{{ commit.commit.author.name }}](mailto:{{commit.commit.author.email}})
+{%- endfor %}
+{% endif %}
+{% endfor %}

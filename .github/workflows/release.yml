@@ -1,4 +1,4 @@
-name: Semantic Release
+name: release
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
         uses: python-semantic-release/python-semantic-release@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
+          
       - name: Push changes to qa and dev
         if: github.ref == 'refs/heads/main'
         run: |
