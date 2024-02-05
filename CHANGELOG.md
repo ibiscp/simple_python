@@ -9,6 +9,17 @@
 
 
 
+## v0.9.0-rc.10 (2024-02-05)
+### 💥 Breaking
+
+
+-  breaking changes [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
+### 🐛 Fix
+
+
+-  fix typo [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
 ## v0.9.0-rc.9 (2024-02-05)
 ### ✨ Feature
 
