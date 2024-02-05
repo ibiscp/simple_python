@@ -1,19 +1,20 @@
 {% set emoji_map = {
-    'feat': '✨',
+    'feature': '✨',
     'fix': '🐛',
-    'docs': '📚',
-    'refactor': '🔨',
-    'build': '🏗️',
+    'documentation': '📚',
+    'refactor': '♻️',
+    'build': '📦',
     'test': '🚨',
     'ci': '🤖',
-    'style': '💎',
-    'chore': '🧹',
-    'perf': '⚡',
+    'style': '🎨',
+    'chore': '🔧',
+    'performance': '⚡',
+    'unknown': '❗',
 } %}
 
 # {{ version.as_tag() }} ({{ release.tagged_date.strftime("%Y-%m-%d") }})
 {% for type_, commits in release["elements"] | dictsort %}
-## {{ type_ | capitalize }}
+## {{ emoji_map[type_] }} {{ type_ | capitalize }}
 {% for commit in commits %}{% if type_ != "unknown" %}
 * {{ commit.message.rstrip() }} ([`{{ commit.short_hash }}`]({{ commit.hexsha | commit_hash_url }}))
 {% else %}
