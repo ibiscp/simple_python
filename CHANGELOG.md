@@ -13,6 +13,8 @@
 
 ### ✨ Feature
 
+* feat: new ([`95155ac`](https://github.com/ibiscp/simple_python/commit/95155ac8591fc6a1af944d7589659816c9d9fcaf))
+
 * feat: blabla ([`eea6591`](https://github.com/ibiscp/simple_python/commit/eea65912c6cdf21c72fe7764f73c552d58a63721))
 
 * feat: add new release ([`a69a947`](https://github.com/ibiscp/simple_python/commit/a69a9475d3e88ebf34de08d85807ee9634b616f4))
