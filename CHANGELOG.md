@@ -5,7 +5,27 @@
 
 
 
+## v0.9.0-rc.6 (2024-02-05)
+
+### 📚 Documentation
+
+* docs: remove version from release notes ([`445f562`](https://github.com/ibiscp/simple_python/commit/445f56211a9549658863b4f2a755b7eff7a23090))
+
+### ✨ Feature
+
+* feat: blabla ([`eea6591`](https://github.com/ibiscp/simple_python/commit/eea65912c6cdf21c72fe7764f73c552d58a63721))
+
+* feat: add new release ([`a69a947`](https://github.com/ibiscp/simple_python/commit/a69a9475d3e88ebf34de08d85807ee9634b616f4))
+
+* feat: add release ([`dc5774a`](https://github.com/ibiscp/simple_python/commit/dc5774a67ca3f9e0f3393fb54281d016535fc048))
+
+* feat: add release notes ([`43d7f9d`](https://github.com/ibiscp/simple_python/commit/43d7f9dd342e83e963ab918a507a69b3c00af33e))
+
 ## v0.9.0-rc.5 (2024-02-04)
+
+### 🔧 Chore
+
+* chore: Update version to 0.9.0-rc.5 ([`664e234`](https://github.com/ibiscp/simple_python/commit/664e234be190e84564867d3a2ad10ad839c263ca))
 
 ### 📚 Documentation
 
@@ -17,11 +37,13 @@
 
 ## v0.9.0-rc.4 (2024-02-04)
 
-### 🏗️ Build
+### 📦 Build
 
 * build: add build ([`578843a`](https://github.com/ibiscp/simple_python/commit/578843a6ee86bba4865328edcf4dd97b3e79c004))
 
-### 🧹 Chore
+### 🔧 Chore
+
+* chore: Update version to 0.9.0-rc.4 ([`afca52b`](https://github.com/ibiscp/simple_python/commit/afca52b972a8b51026adcf8f499a9e6872416b64))
 
 * chore: add chore ([`ead222a`](https://github.com/ibiscp/simple_python/commit/ead222accf0822aa21f8b97da35ced73a072a5e9))
 
@@ -45,11 +67,11 @@
 
 * perf: add perf ([`a2cf348`](https://github.com/ibiscp/simple_python/commit/a2cf3485dbfec4d7a6278b9273cb2da68f617588))
 
-### 🔨 Refactor
+### ♻️ Refactor
 
 * refactor: add refactor ([`d5db798`](https://github.com/ibiscp/simple_python/commit/d5db798cb29eb19f233b89a722051ede2a025609))
 
-### 💎 Style
+### 🎨 Style
 
 * style: add style ([`5a700b0`](https://github.com/ibiscp/simple_python/commit/5a700b083806d7ee8d74671c4621a92255817af3))
 
@@ -59,6 +81,10 @@
 
 ## v0.9.0-rc.3 (2024-02-04)
 
+### 🔧 Chore
+
+* chore: Update version to 0.9.0-rc.3 ([`296323e`](https://github.com/ibiscp/simple_python/commit/296323e517393ba84498708afc3fc48c11d6e687))
+
 ### ✨ Feature
 
 * feat: remove release notes ([`66dadb3`](https://github.com/ibiscp/simple_python/commit/66dadb3b546c9beb4f36027a93a8234cc2a921b3))
@@ -66,6 +92,10 @@
 * feat: change templates ([`00ca8d0`](https://github.com/ibiscp/simple_python/commit/00ca8d00f554da9dac965d0c8562f6eb2442edb7))
 
 ## v0.9.0-rc.2 (2024-02-04)
+
+### 🔧 Chore
+
+* chore: Update version to 0.9.0-rc.2 ([`bec1fd1`](https://github.com/ibiscp/simple_python/commit/bec1fd11b3feecd35794879e915489401929d80f))
 
 ### ✨ Feature
 
@@ -75,19 +105,27 @@
 
 ## v0.9.0-rc.1 (2024-02-04)
 
+### 🔧 Chore
+
+* chore: Update version to 0.9.0-rc.1 ([`d8570db`](https://github.com/ibiscp/simple_python/commit/d8570db25d9483dfd56e366908a412dee9b8c6c2))
+
 ### ✨ Feature
 
 * feat: add emojis ([`fc99470`](https://github.com/ibiscp/simple_python/commit/fc994701925ebf6a06a5399fc41defd25aebfe94))
 
 ## v0.8.0 (2024-02-03)
 
-### 🧹 Chore
+### 🔧 Chore
+
+* chore: Update version to 0.8.0 ([`889d098`](https://github.com/ibiscp/simple_python/commit/889d09886babe262d2ad62e447f1a4c1d1cff96f))
 
 * chore: test new chore ([`d0274be`](https://github.com/ibiscp/simple_python/commit/d0274be536d262b519abf9af16af6d6bad8a0239))
 
 ## v0.8.0-rc.1 (2024-02-03)
 
-### 🧹 Chore
+### 🔧 Chore
+
+* chore: Update version to 0.8.0-rc.1 ([`c9fa280`](https://github.com/ibiscp/simple_python/commit/c9fa280e930285ac5f1f04fb6b99dd7305e6b2d9))
 
 * chore: remove semantic_release from pyproject ([`cd91c47`](https://github.com/ibiscp/simple_python/commit/cd91c4775814c2778da534c1d176d85c2261295f))
 
@@ -97,9 +135,15 @@
 
 ## v0.7.0 (2024-02-03)
 
+### 🔧 Chore
+
+* chore: Update version to 0.7.0 ([`74dff24`](https://github.com/ibiscp/simple_python/commit/74dff24b510c6d487f4159619326296207db8a81))
+
 ## v0.7.0-rc.2 (2024-02-03)
 
-### 🧹 Chore
+### 🔧 Chore
+
+* chore: Update version to 0.7.0-rc.2 ([`45d9511`](https://github.com/ibiscp/simple_python/commit/45d9511e096ec87153e9259bc2f44ad1ee8547ea))
 
 * chore: add chore ([`ebd939b`](https://github.com/ibiscp/simple_python/commit/ebd939b8ebb8f6e64ac0d579f878d19bb6db8687))
 
@@ -113,6 +157,10 @@
 
 ## v0.7.0-rc.1 (2024-02-03)
 
+### 🔧 Chore
+
+* chore: Update version to 0.7.0-rc.1 ([`d15f628`](https://github.com/ibiscp/simple_python/commit/d15f628573985e3a4ec4284ab4e5f73870d9b04d))
+
 ### ✨ Feature
 
 * feat: add file_2 ([`040394c`](https://github.com/ibiscp/simple_python/commit/040394c47fb35c31bd9cfa353b0ce7fd129dfcfe))
@@ -123,7 +171,7 @@
 
 * feat: add multiply ([`52da6e3`](https://github.com/ibiscp/simple_python/commit/52da6e39b1f4724c00f34f946b1a1c43106f6404))
 
-###  Unknown
+### ❗ Unknown
 
 * Dev to QA (#26) (#27)
 
@@ -139,7 +187,15 @@
 
 ## v0.6.0 (2024-02-03)
 
+### 🔧 Chore
+
+* chore: Update version to 0.6.0 ([`7960ed9`](https://github.com/ibiscp/simple_python/commit/7960ed93a154eaac956ffeff6a135ec45df8b8ec))
+
 ## v0.6.0-rc.1 (2024-02-03)
+
+### 🔧 Chore
+
+* chore: Update version to 0.6.0-rc.1 ([`6677b8a`](https://github.com/ibiscp/simple_python/commit/6677b8a7d0c4976cb0e0b9182c3b6f53a1c7ce13))
 
 ### ✨ Feature
 
@@ -147,7 +203,15 @@
 
 ## v0.5.0 (2024-02-03)
 
+### 🔧 Chore
+
+* chore: Update version to 0.5.0 ([`90562bd`](https://github.com/ibiscp/simple_python/commit/90562bd95423f01058bf84dc6e3097588ebe92e6))
+
 ## v0.5.0-rc.1 (2024-02-03)
+
+### 🔧 Chore
+
+* chore: Update version to 0.5.0-rc.1 ([`de4f4b8`](https://github.com/ibiscp/simple_python/commit/de4f4b8a1918701e48fbb8f1566f5557cfdeff6f))
 
 ### ✨ Feature
 
@@ -155,13 +219,17 @@
 
 ## v0.4.0 (2024-02-03)
 
+### 🔧 Chore
+
+* chore: Update version to 0.4.0 ([`b16152d`](https://github.com/ibiscp/simple_python/commit/b16152dceaf6e1d428f2ef3b0551189fe7a8d0dd))
+
 ### ✨ Feature
 
 * feat: add user to commit ([`cb26dbf`](https://github.com/ibiscp/simple_python/commit/cb26dbfd0c78b5bf4988f3057dc90c068c11a2dc))
 
 * feat: try pushing changes back ([`cb19a15`](https://github.com/ibiscp/simple_python/commit/cb19a15202d15445cbf66150464df0351485e8c4))
 
-###  Unknown
+### ❗ Unknown
 
 * Dev (#18)
 
@@ -183,7 +251,9 @@
 
 ## v0.4.0-rc.1 (2024-02-03)
 
-### 🧹 Chore
+### 🔧 Chore
+
+* chore: Update version to 0.4.0-rc.1 ([`e87728e`](https://github.com/ibiscp/simple_python/commit/e87728e70c2b2fc812a699a54c7f5548fd8e9693))
 
 * chore: test chore command ([`9899910`](https://github.com/ibiscp/simple_python/commit/98999103aeceb5d75b62109f908804fccf78848f))
 
@@ -195,7 +265,7 @@
 
 * feat: add division ([`4799358`](https://github.com/ibiscp/simple_python/commit/4799358de5744c08af2460a3af52c5b4fc4b8c77))
 
-###  Unknown
+### ❗ Unknown
 
 * Major pyproject.toml Update and Addition of &#39;add&#39; Function
 
@@ -213,13 +283,17 @@ Co-authored-by: github-actions &lt;github-actions@github.com&gt; ([`6ae3ea2`](ht
 
 ## v0.3.0-rc.2 (2024-02-02)
 
+### 🔧 Chore
+
+* chore: Update version to 0.3.0-rc.2 ([`9e73f8e`](https://github.com/ibiscp/simple_python/commit/9e73f8e8e1411400862fdacefe9383dafc61a941))
+
 ### ✨ Feature
 
 * feat: add add function ([`e1c050f`](https://github.com/ibiscp/simple_python/commit/e1c050f3169666fd43d25aac53a20d57ed433570))
 
 ## v0.3.0 (2024-02-02)
 
-### 🧹 Chore
+### 🔧 Chore
 
 * chore(semver): Update version to 0.3.0 ([`da27b84`](https://github.com/ibiscp/simple_python/commit/da27b84d994446b4663b5232951b4ddf9babce0d))
 
@@ -231,7 +305,7 @@ BREAKING CHANGE this is not backward compatible ([`d99eac7`](https://github.com/
 
 ## v0.3.0-rc.1 (2024-02-02)
 
-### 🧹 Chore
+### 🔧 Chore
 
 * chore(semver): Update version to 0.3.0-rc.1 ([`384e498`](https://github.com/ibiscp/simple_python/commit/384e498d9b0141ab0032b68d9f057fb410a64e38))
 
@@ -243,7 +317,7 @@ BREAKING CHANGE this is not backward compatible ([`d99eac7`](https://github.com/
 
 ## v0.2.0 (2024-02-02)
 
-###  Unknown
+### ❗ Unknown
 
 * 0.2.0
 
@@ -255,7 +329,7 @@ Automatically generated by python-semantic-release ([`4413ac5`](https://github.c
 
 * feat: remove merge messages ([`959965c`](https://github.com/ibiscp/simple_python/commit/959965cda74bed00f377f958f6e39010e9f7d29f))
 
-###  Unknown
+### ❗ Unknown
 
 * 0.1.0-rc.4
 
@@ -263,7 +337,7 @@ Automatically generated by python-semantic-release ([`69edbad`](https://github.c
 
 ## v0.1.0 (2024-02-02)
 
-###  Unknown
+### ❗ Unknown
 
 * 0.1.0
 
@@ -275,7 +349,7 @@ Automatically generated by python-semantic-release ([`98e598d`](https://github.c
 
 * feat: modify pyrpoject ([`6f9f413`](https://github.com/ibiscp/simple_python/commit/6f9f413d6ec2391c6c559a8101e795e2df6a6a76))
 
-###  Unknown
+### ❗ Unknown
 
 * 0.1.0-rc.3
 
@@ -289,7 +363,7 @@ Automatically generated by python-semantic-release ([`15e4353`](https://github.c
 
 * fix: modify files ([`e9ca951`](https://github.com/ibiscp/simple_python/commit/e9ca951f392e38d674e3c3a6944f4b8fc4d3fb30))
 
-###  Unknown
+### ❗ Unknown
 
 * 0.1.0-rc.2
 
@@ -301,7 +375,7 @@ Automatically generated by python-semantic-release ([`7b6ad4a`](https://github.c
 
 * feat: add ci/cd ([`0ce7ca2`](https://github.com/ibiscp/simple_python/commit/0ce7ca248ecd0b0cc765cfa297c527cb1ff37dcb))
 
-###  Unknown
+### ❗ Unknown
 
 * 0.1.0-rc.1
 
