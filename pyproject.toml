@@ -33,7 +33,7 @@ prerelease = true
 prerelease_token = "rc"
 
 [tool.semantic_release.commit_parser_options]
-allowed_tags = ["breaking", "feat", "fix", perf", "refactor", "chore", "docs", "test", "ci", "style", "build"]
+allowed_tags = ["breaking", "feat", "fix", "perf", "refactor", "chore", "docs", "test", "ci", "style", "build"]
 major_tags = ["breaking"]
 minor_tags = ["feat"]
 patch_tags = ["fix", "perf", "refactor"]
