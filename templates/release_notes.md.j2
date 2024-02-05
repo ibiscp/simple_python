@@ -12,7 +12,6 @@
     'unknown': '❗',
 } %}
 
-# {{ version.as_tag() }} ({{ release.tagged_date.strftime("%Y-%m-%d") }})
 {% for type_, commits in release["elements"] | dictsort %}
 ## {{ emoji_map[type_] }} {{ type_ | capitalize }}
 {% for commit in commits %}{% if type_ != "unknown" %}
