@@ -9,6 +9,12 @@
 
 
 
+## v1.0.0-rc.1 (2024-02-05)
+### 💥 Breaking
+
+
+-  this is a breaking change [\@Ibis Prevedello](mailto:ibiscp@gmail.com)
+
 ## v0.9.0 (2024-02-05)
 ## v0.9.0-rc.10 (2024-02-05)
 ### 💥 Breaking
