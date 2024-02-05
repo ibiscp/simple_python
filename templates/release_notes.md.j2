@@ -15,7 +15,7 @@
 {# Assuming context.history.released is sorted in descending order of release #}
 {% set latest_release = context.history.released|first %}
 
-# Latest Release: {{ latest_release.version.as_tag() }} ({{ latest_release.tagged_date.strftime("%Y-%m-%d") }})
+# Latest Release: {{ latest_release.as_tag() }} ({{ latest_release.tagged_date.strftime("%Y-%m-%d") }})
 {% for type_, commits in latest_release["elements"] | dictsort %}
 ## {{ emoji_map[type_] }} {{ type_ | capitalize }}
 {% for commit in commits %}
