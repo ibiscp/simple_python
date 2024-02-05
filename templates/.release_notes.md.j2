@@ -17,7 +17,6 @@
 {% macro commit_content(commit_summary) %}{{ commit_summary.split(":")[1] }}{% endmacro %}
 {% set order = emoji_map.keys() %}
 
-
 ## {{ version.as_tag() }} ({{ release.tagged_date.strftime("%Y-%m-%d") }})
 {%- for type_ in order %}
 {%- if type_ in release["elements"] %}
