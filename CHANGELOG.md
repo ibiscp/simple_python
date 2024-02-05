@@ -5,6 +5,16 @@
 
 
 
+## v0.9.0-rc.5 (2024-02-04)
+
+### 📚 Documentation
+
+* docs: modify documentation ([`419f093`](https://github.com/ibiscp/simple_python/commit/419f09393a8cb4fd24be54d35abd1b262ee824b4))
+
+### ⚡ Performance
+
+* perf: modify performance ([`5dd3618`](https://github.com/ibiscp/simple_python/commit/5dd3618e01a4b7196e2541d5ae0f95fb77eeec1c))
+
 ## v0.9.0-rc.4 (2024-02-04)
 
 ### 🏗️ Build
@@ -19,7 +29,7 @@
 
 * ci: add ci ([`f1ad9cd`](https://github.com/ibiscp/simple_python/commit/f1ad9cdbecbaac5379e4600452307ebecfc6e11e))
 
-###  Documentation
+### 📚 Documentation
 
 * docs: add docs ([`1514be6`](https://github.com/ibiscp/simple_python/commit/1514be67e69dd1d30ad2bf0566100324a7836586))
 
@@ -31,7 +41,7 @@
 
 * fix: add fix ([`e98cd7b`](https://github.com/ibiscp/simple_python/commit/e98cd7b97780c9139d6c6da6997c71aa56945cf6))
 
-###  Performance
+### ⚡ Performance
 
 * perf: add perf ([`a2cf348`](https://github.com/ibiscp/simple_python/commit/a2cf3485dbfec4d7a6278b9273cb2da68f617588))
 
